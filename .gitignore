@@ -1,0 +1,4 @@
+node_modules/
+/src/0.configs/.env
+/src/0.configs/.env.dev
+/src/0.configs/.env.prod
